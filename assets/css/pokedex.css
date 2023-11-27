@@ -94,7 +94,7 @@
 }
 
 .pokemon .name {
-    text-transform: capitalize;
+    text-transform: capitalize; /* Converte a primeira letra em do nome em ==> MAIUSCULA */
     color: #fff;
     margin-bottom: .25rem;
 }
