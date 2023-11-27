@@ -87,8 +87,8 @@
 }
 
 .pokemon .number {
-    color: #000;
-    opacity: .3;
+    color: #2e2d2d;
+    opacity: .5;
     text-align: right;
     font-size: .625rem;
 }
@@ -140,8 +140,8 @@
     padding: .25rem .5rem;
     margin: .25rem 0;
     font-size: .625rem;
-    color: #fff;
-    background-color: #6c79db;
+    color: #ddd8d8;
+    background-color: #1329ce;
     border: none;
     border-radius: 1rem;
 }
